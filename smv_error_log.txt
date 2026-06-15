@@ -1,0 +1,26 @@
+[2026-05-07 12:04:15] STYLE: nan | ERROR: Missing SMV or Style name in Excel
+[2026-05-07 12:20:22] STYLE: 94694 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:22:55] STYLE: CWPO00000917 | ERROR: Buyer image carnet.png not found
+[2026-05-07 12:22:59] STYLE: CWPO00000867 | ERROR: Buyer image carnet.png not found
+[2026-05-07 12:23:03] STYLE: CWPO00000863 | ERROR: Buyer image carnet.png not found
+[2026-05-07 12:23:06] STYLE: TSM-257 | ERROR: Buyer image medicine.png not found
+[2026-05-07 12:23:10] STYLE: TSM-259 | ERROR: Buyer image medicine.png not found
+[2026-05-07 12:26:05] STYLE: 99054 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:26:09] STYLE: 99171 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:26:12] STYLE: 99061 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:26:16] STYLE: 88220 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:29:04] STYLE: 2026-701-CT-002 | ERROR: Buyer image genta_sourcing.png not found
+[2026-05-07 12:33:09] STYLE: 99631 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:33:13] STYLE: 99623 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:35:06] STYLE: 3232173 | ERROR: Failed to save/update
+[2026-05-07 12:36:48] STYLE: 6000266 johnson tee SS | ERROR: Buyer image pre_end.png not found
+[2026-05-07 12:41:31] STYLE: TS004 | ERROR: Buyer image genta_sourcing.png not found
+[2026-05-07 12:53:57] STYLE: 99887 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:54:01] STYLE: 100858 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:54:05] STYLE: 99909 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:54:08] STYLE: 100115 | ERROR: Buyer image oui.png not found
+[2026-05-07 12:54:12] STYLE: 3230781 | ERROR: Buyer image cecil/leftover.png not found
+[2026-05-07 12:54:16] STYLE: 3231198 | ERROR: Buyer image cecil/leftover.png not found
+[2026-05-07 12:54:49] STYLE: 2026-702-BR001 | ERROR: Buyer image genta_sourcing.png not found
+[2026-05-07 12:54:52] STYLE: MATS100179 | ERROR: Buyer image x-ray_jeans.png not found
+[2026-05-07 13:00:50] STYLE: 2026-501-502 | ERROR: Buyer image genta_sourcing.png not found

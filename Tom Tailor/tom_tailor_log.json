@@ -1,0 +1,56 @@
+[
+    {
+        "PO No.": "450105813",
+        "Date": "18.02.2026",
+        "Company": "TOM TAILOR",
+        "Article No": "1041065",
+        "Description": "cropped mock neck rib t-shirt",
+        "Handover Date": "12.04.2026",
+        "Table": [
+            {
+                "Color": "14162",
+                "Color Name": "",
+                "Total Pcs": "813",
+                "Breakdown": {
+                    "128": "71",
+                    "140": "161",
+                    "152": "239",
+                    "164": "225",
+                    "176": "117"
+                }
+            }
+        ]
+    },
+    {
+        "PO No.": "450106128",
+        "Date": "19.02.2026",
+        "Company": "TOM TAILOR",
+        "Article No": "1051704",
+        "Description": "glitter printed longsleeve",
+        "Handover Date": "17.05.2026",
+        "Table": [
+            {
+                "Color": "40576",
+                "Color Name": "",
+                "Total Pcs": "52",
+                "Breakdown": {
+                    "92/98": "4",
+                    "104/110": "8",
+                    "116/122": "17",
+                    "128/134": "23"
+                }
+            },
+            {
+                "Color": "40577",
+                "Color Name": "",
+                "Total Pcs": "52",
+                "Breakdown": {
+                    "92/98": "4",
+                    "104/110": "8",
+                    "116/122": "17",
+                    "128/134": "23"
+                }
+            }
+        ]
+    }
+]
